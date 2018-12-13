@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocNet</string>
+    <string name="add">Добавить</string>
+    <string name="item">Item</string>
+    <string name="position">Позиция - %d</string>
+    <string name="one_more">Еще одна осень</string>
+</resources>
